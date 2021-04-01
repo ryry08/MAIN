@@ -137,6 +137,13 @@ nav a:focus {
   padding-top: 6rem;
 }
 
+@media (max-width: 675px) {
+  ,wrapper {
+    flex-direction: column;
+    width: 100%;
+  }
+}
+
 .img-area {
   width: 100%;
   padding: 0 20px;
@@ -159,8 +166,8 @@ img {
 @media (max-width: 675px) {
   img {
     flex-direction: column;
-    height: 2500px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
   }
 }
 
