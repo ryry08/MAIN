@@ -138,7 +138,7 @@ nav a:focus {
 }
 
 @media (max-width: 675px) {
-  ,wrapper {
+  .wrapper {
     flex-direction: column;
     width: 100%;
   }
@@ -165,7 +165,6 @@ img {
 
 @media (max-width: 675px) {
   img {
-    flex-direction: column;
     height: 200px;
     width: 200px;
   }
