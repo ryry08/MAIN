@@ -159,8 +159,8 @@ img {
 @media (max-width: 675px) {
   img {
     flex-direction: column;
-    height: 400px;
-    width: 400px;
+    height: 2500px;
+    width: 250px;
   }
 }
 
