@@ -152,7 +152,7 @@ nav a:focus {
 
 .btn {
   display: inline-block;
-  border: 1px solid block;
+  border: 1px solid black;
   background-color: black;
   color: tomato;
   padding: 1rem 1.65rem;
@@ -164,7 +164,7 @@ nav a:focus {
 .btn:focus {
   background-color: tomato;
   color: black;
-  cusrsor: pointer;
+  cursor: pointer;
 }
 
 @media (max-width: 675px) {
