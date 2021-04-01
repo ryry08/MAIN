@@ -150,23 +150,6 @@ nav a:focus {
   padding-bottom: 150px;
 }
 
-a {
-  display: inline-block;
-  border: 1px solid black;
-  background-color: black;
-  color: tomato;
-  padding: 1rem 1.65rem;
-  margin-top: 1rem;
-  text-decoration: none;
-}
-
-a:hover,
-a:focus {
-  background-color: tomato;
-  color: black;
-  cursor: pointer;
-}
-
 @media (max-width: 675px) {
   .start-container {
     justify-content: center;
